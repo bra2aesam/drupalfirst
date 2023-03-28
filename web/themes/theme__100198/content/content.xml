@@ -1,0 +1,574 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<sitecontent>
+  <menu>
+    <menu_item>
+      <menu_item_title>Home</menu_item_title>
+      <menu_item_path>home</menu_item_path>
+      <menu_item_slug>home</menu_item_slug>
+      <menu_item_status>1</menu_item_status>
+    </menu_item>
+    <menu_item>
+      <menu_item_title>About Us</menu_item_title>
+      <menu_item_path>about us</menu_item_path>
+      <menu_item_slug>about-us</menu_item_slug>
+      <menu_item_status>1</menu_item_status>
+    </menu_item>
+    <menu_item>
+      <menu_item_title>Services</menu_item_title>
+      <menu_item_path>services</menu_item_path>
+      <menu_item_slug>services</menu_item_slug>
+      <menu_item_status>1</menu_item_status>
+    </menu_item>
+    <menu_item>
+      <menu_item_title>Contact</menu_item_title>
+      <menu_item_path>contact</menu_item_path>
+      <menu_item_slug>contact</menu_item_slug>
+      <menu_item_status>1</menu_item_status>
+    </menu_item>
+    <menu_item>
+      <menu_item_title>Blog-wp</menu_item_title>
+      <menu_item_path>blog</menu_item_path>
+      <menu_item_slug>blog-wp</menu_item_slug>
+      <menu_item_status>1</menu_item_status>
+    </menu_item>
+  </menu>
+  <pages>
+    <content>
+      <meta_ID>tt_page1</meta_ID>
+      <page_title>Home</page_title>
+      <alias>home</alias>
+      <page_name>Home</page_name>
+      <page_header_id>home</page_header_id>
+      <state>1</state>
+      <featured>1</featured>
+      <created>07/07/2021 00:00:00</created>
+      <created_by_alias>SuperUser</created_by_alias>
+      <page_title_visibility>false</page_title_visibility>
+      <introtext><![CDATA[<div class="ttr_home_html_row0 row" >
+<div class="post_column col-xl-12 col-lg-12 col-md-12 col-sm-12 col-xs-12 col-12">
+<div class="ttr_home_html_column00">
+<div class="margin_collapsetop"></div>
+<div class="html_content"><p style="text-align:Center; display:block; line-height:4.96em;"><span style="font-family:'Playfair Display','Arial';font-weight:700;font-size:2.571em;">Welcome to Green Alley!</span></p><p style="margin:20px 0px 5px 0px;text-align:Center; display:block; line-height:1.07em;"><span style="font-family:'Playfair Display','Arial';font-style:italic;font-size:1.286em;color:rgba(105,105,105,1);">~ Flower store ~</span></p></div>
+<div class="margin_collapsetop"></div>
+<div style="clear:both;width:0px;"></div>
+</div>
+</div>
+<div class=" visible-lg-block d-xl-block d-lg-block visible-md-block d-md-block visible-sm-block d-sm-block visible-xs-block d-block" style="clear: both;width:0px;"></div>
+</div>
+<div class="ttr_home_html_row1 row" >
+<div class="post_column col-xl-12 col-lg-12 col-md-12 col-sm-12 col-xs-12 col-12">
+<div class="ttr_home_html_column10">
+<div class="margin_collapsetop"></div>
+<div class="html_content"><p style="text-align:Center; display:block; "><span class="ttr_image" style="float:none;display:block;overflow:hidden;text-align:center;margin:0px 0px 0px 0px;"><span style="text-align:Center; display:block; "><img class="ttr_uniform" style="max-height:164px;max-width:430px;margin:0px 0px 0px 0px;" src="~base_path~sites/default/files/inline-images/home04i9.png" alt="s" /></span></span></p></div>
+<div class="margin_collapsetop"></div>
+<div style="clear:both;width:0px;"></div>
+</div>
+</div>
+<div class=" visible-lg-block d-xl-block d-lg-block visible-md-block d-md-block visible-sm-block d-sm-block visible-xs-block d-block" style="clear: both;width:0px;"></div>
+<div class="post_column col-xl-12 col-lg-12 col-md-12 col-sm-12 col-xs-12 col-12">
+<div class="ttr_home_html_column11">
+<div class="margin_collapsetop"></div>
+<div class="html_content"><p style="text-align:Center; display:block; line-height:1.64em;"><span style="font-family:'Playfair Display','Arial';font-style:italic;font-weight:1;font-size:1.571em;color:rgba(105,105,105,1);">We are Flower Store committed to offering only the finest floral</span></p><p style="text-align:Center; display:block; line-height:1.64em;"><span style="font-family:'Playfair Display','Arial';font-style:italic;font-weight:1;font-size:1.571em;color:rgba(105,105,105,1);">arrangements and gifts, backed by service that is friendly and</span></p><p style="text-align:Center; display:block; line-height:1.64em;"><span style="font-family:'Playfair Display','Arial';font-style:italic;font-weight:1;font-size:1.571em;color:rgba(105,105,105,1);">prompt.</span></p></div>
+<div class="margin_collapsetop"></div>
+<div style="clear:both;width:0px;"></div>
+</div>
+</div>
+<div class=" visible-lg-block d-xl-block d-lg-block visible-md-block d-md-block visible-sm-block d-sm-block visible-xs-block d-block" style="clear: both;width:0px;"></div>
+</div>
+<div class="ttr_home_html_row2 row" >
+<div class="post_column col-xl-12 col-lg-12 col-md-12 col-sm-12 col-xs-12 col-12">
+<div class="ttr_home_html_column20">
+<div class="margin_collapsetop"></div>
+<div class="html_content"><p style="margin:2px 0px 20px 0px;text-align:Center; display:block; line-height:1.49em;"><span style="font-family:'Playfair Display','Arial';font-weight:700;font-size:2.571em;color:rgba(0,0,0,1);">Our Specialized Services</span></p></div>
+<div class="margin_collapsetop"></div>
+<div style="clear:both;width:0px;"></div>
+</div>
+</div>
+<div class=" visible-lg-block d-xl-block d-lg-block visible-md-block d-md-block visible-sm-block d-sm-block visible-xs-block d-block" style="clear: both;width:0px;"></div>
+<div class="post_column col-xl-4 col-lg-4 col-md-4 col-sm-12 col-xs-12 col-12">
+<div class="ttr_home_html_column21">
+<div class="margin_collapsetop"></div>
+<div class="html_content"><h2 style="margin:2px 0px 0px 0px;text-align:Center; display:block; line-height:1.55em;"><span class="ttr_image" style="float:none;display:block;overflow:hidden;text-align:center;margin:0px 0px 0px 0px;"><span><img class="ttr_uniform" style="max-height:160px;max-width:160px;margin:0px 0px 20px 0px;" src="~base_path~sites/default/files/inline-images/home04i103.png" alt="tr" /></span></span><span style="font-family:'Playfair Display','Arial';font-size:0.8em;color:rgba(0,0,0,1);">Lawn Care</span></h2><p style="margin:10px 0px 0px 0px;text-align:Center; display:block; line-height:2.07em;"><span style="font-family:'Lato','Arial';font-size:1.143em;color:rgba(78,78,78,1);">Lorem ipsum dolor sit amet, test link adipiscing elit. Nullam dignissim convallis est.Quisque aliquam. Donec faucibus nunc iaculis suscipit.</span></p></div>
+<div class="margin_collapsetop"></div>
+<div style="clear:both;width:0px;"></div>
+</div>
+</div>
+<div class=" visible-sm-block d-sm-block visible-xs-block d-block" style="clear: both;width:0px;"></div>
+<div class="post_column col-xl-4 col-lg-4 col-md-4 col-sm-12 col-xs-12 col-12">
+<div class="ttr_home_html_column22">
+<div class="margin_collapsetop"></div>
+<div class="html_content"><p style="margin:0px 0px 0px 0px;text-align:Center; display:block; line-height:3.33em;"><span class="ttr_image" style="float:none;display:block;overflow:hidden;text-align:center;margin:0px 0px 0px 0px;"><span><img class="ttr_uniform" style="max-height:160px;max-width:160px;margin:0px 0px 20px 0px;" src="~base_path~sites/default/files/inline-images/home04i111.png" alt="54" /></span></span><span style="font-family:'Playfair Display','Arial';font-size:1.714em;">Hedging &amp; Topiary</span></p><p style="margin:10px 0px 0px 0px;text-align:Center; display:block; line-height:2.07em;"><span style="font-family:'Lato','Arial';font-size:1.143em;color:rgba(78,78,78,1);">Lorem ipsum dolor sit amet, test link adipiscing elit. Nullam dignissim convallis est.Quisque aliquam. Donec faucibus nunc iaculis suscipit.</span></p></div>
+<div class="margin_collapsetop"></div>
+<div style="clear:both;width:0px;"></div>
+</div>
+</div>
+<div class=" visible-sm-block d-sm-block visible-xs-block d-block" style="clear: both;width:0px;"></div>
+<div class="post_column col-xl-4 col-lg-4 col-md-4 col-sm-12 col-xs-12 col-12">
+<div class="ttr_home_html_column23">
+<div class="margin_collapsetop"></div>
+<div class="html_content"><p style="margin:0px 0px 20px 0px;text-align:Center; display:block; line-height:2.07em;"><span class="ttr_image" style="float:none;display:block;overflow:hidden;text-align:center;margin:0px 0px 0px 0px;"><span><img class="ttr_uniform" style="max-height:160px;max-width:160px;margin:0px 0px 20px 0px;" src="~base_path~sites/default/files/inline-images/home04i12.png" alt="guy" /></span></span><span style="font-family:'Playfair Display','Arial';font-size:1.571em;">Garden Care</span></p><p style="margin:10px 0px 0px 0px;text-align:Center; display:block; line-height:2.07em;"><span style="font-family:'Lato','Arial';font-size:1.143em;color:rgba(78,78,78,1);">Lorem ipsum dolor sit amet, test link adipiscing elit. Nullam dignissim convallis est.Quisque aliquam. Donec faucibus nunc iaculis suscipit.</span></p><p style="margin:2px 0px 0px 0px;text-align:Center; display:block; line-height:1.49em;"><br style="font-weight:700;font-size:1.571em;" /></p></div>
+<div class="margin_collapsetop"></div>
+<div style="clear:both;width:0px;"></div>
+</div>
+</div>
+<div class=" visible-lg-block d-xl-block d-lg-block visible-md-block d-md-block visible-sm-block d-sm-block visible-xs-block d-block" style="clear: both;width:0px;"></div>
+</div>
+<div class="ttr_home_html_row3 row" >
+<div class="post_column col-xl-12 col-lg-12 col-md-12 col-sm-12 col-xs-12 col-12">
+<div class="ttr_home_html_column30">
+<div class="margin_collapsetop"></div>
+<div class="html_content"><p style="margin:5px 0px 20px 0px;text-align:Center; display:block; line-height:2.64em;"><span style="font-family:'Playfair Display','Arial';font-style:italic;font-weight:1;font-size:2.571em;color:rgba(105,105,105,1);">Welcome to Green Alley Beautiful &amp; Fresh Plants</span></p><p style="margin:5px 0px 30px 0px;text-align:Center; display:block; line-height:2.24em;"><span style="font-family:'Lato','Arial';font-size:1.143em;color:rgba(105,105,105,1);">Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.</span></p><p style="margin:5px 0px 30px 0px;text-align:Center; display:block; line-height:2.24em;"><span><a href="https://templatetoaster.com" target="_self" class="btn btn-md btn-default">Read More</a></span></p></div>
+<div class="margin_collapsetop"></div>
+<div style="clear:both;width:0px;"></div>
+</div>
+</div>
+<div class=" visible-lg-block d-xl-block d-lg-block visible-md-block d-md-block visible-sm-block d-sm-block visible-xs-block d-block" style="clear: both;width:0px;"></div>
+</div>
+<div class="ttr_home_html_row4 row" >
+<div class="post_column col-xl-12 col-lg-12 col-md-12 col-sm-12 col-xs-12 col-12">
+<div class="ttr_home_html_column40">
+<div class="margin_collapsetop"></div>
+<div class="html_content"><p style="margin:2px 0px 0px 0px;text-align:Center; display:block; line-height:1.49em;"><span style="font-family:'Playfair Display','Arial';font-weight:700;font-size:2.571em;">Our Services</span></p><p style="margin:10px 0px 0px 0px;text-align:Center; display:block; line-height:2.36em;"><span style="font-family:'Lato','Arial';font-size:1.143em;color:rgba(105,105,105,1);">Lorem ipsum dolor sit amet, test link adipiscing elit.Nullam dignissim convallis est. Quisque aliquam. Donec faucibus. Nunc iaculis suscipit dui.Nam sit amet sem. Aliquam libero nisi imperdiet at tincidunt nec</span><span style="font-family:'Lato','Arial';font-size:1.143em;color:rgba(78,78,78,1);">.</span></p></div>
+<div class="margin_collapsetop"></div>
+<div style="clear:both;width:0px;"></div>
+</div>
+</div>
+<div class=" visible-lg-block d-xl-block d-lg-block visible-md-block d-md-block visible-sm-block d-sm-block visible-xs-block d-block" style="clear: both;width:0px;"></div>
+<div class="post_column col-xl-4 col-lg-4 col-md-6 col-sm-12 col-xs-12 col-12">
+<div class="ttr_home_html_column41">
+<div class="margin_collapsetop"></div>
+<div class="html_content"><h2 style="margin:0px 0px 0px 0px;text-align:Center; display:block; line-height:0.97em;"><span class="ttr_image" style="float:none;display:block;overflow:hidden;text-align:center;margin:0px 0px 0px 0px;"><span style="text-align:Center; display:block; "><img class="ttr_uniform" style="max-height:251px;max-width:251px;margin:0px 0px 20px 0px;" src="~base_path~sites/default/files/inline-images/873a23ee5803b93d49cee948164804fe350x350.png" alt="image" /></span></span><span style="font-family:'Playfair Display','Arial';font-weight:700;font-size:0.667em;color:rgba(52,52,52,1);">Hedging &amp; Topiary</span></h2><p style="margin:0px 0px 0px 0px;text-align:Center; display:block; line-height:2.07em;"><span style="font-family:'Lato','Arial';font-size:1.143em;color:rgba(78,78,78,1);">Lorem ipsum dolor sit amet, test link adipiscing elit.Nullam dignissim convallis est.Quisque aliquam. Donec faucibus. Nunc iaculis suscipit.</span></p></div>
+<div class="margin_collapsetop"></div>
+<div style="clear:both;width:0px;"></div>
+</div>
+</div>
+<div class=" visible-sm-block d-sm-block visible-xs-block d-block" style="clear: both;width:0px;"></div>
+<div class="post_column col-xl-4 col-lg-4 col-md-6 col-sm-12 col-xs-12 col-12">
+<div class="ttr_home_html_column42">
+<div class="margin_collapsetop"></div>
+<div class="html_content"><p style="margin:0px 0px 5px 0px;text-align:Center; display:block; line-height:2.07em;"><span class="ttr_image" style="float:none;display:block;overflow:hidden;text-align:center;margin:0px 0px 0px 0px;"><span><img class="ttr_uniform" style="max-height:251px;max-width:251px;margin:0px 0px 17px 0px;" src="~base_path~sites/default/files/inline-images/1350x350.jpg" alt="image" /></span></span><span style="font-family:'Playfair Display','Arial';font-weight:700;font-size:1.429em;">Landscaping</span></p><p style="margin:0px 0px 5px 0px;text-align:Center; display:block; line-height:2.07em;"><span style="font-family:'Lato','Arial';font-size:1.143em;color:rgba(78,78,78,1);">Lorem ipsum dolor sit amet, test link adipiscing elit.Nullam dignissim convallis est.Quisque aliquam. Donec faucibus. Nunc iaculis suscipit.</span></p></div>
+<div class="margin_collapsetop"></div>
+<div style="clear:both;width:0px;"></div>
+</div>
+</div>
+<div class=" visible-md-block d-md-block visible-sm-block d-sm-block visible-xs-block d-block" style="clear: both;width:0px;"></div>
+<div class="post_column col-xl-4 col-lg-4 col-md-6 col-sm-12 col-xs-12 col-12">
+<div class="ttr_home_html_column43">
+<div class="margin_collapsetop"></div>
+<div class="html_content"><p style="margin:0px 0px 0px 0px;text-align:Center; display:block; line-height:2.07em;"><span class="ttr_image" style="float:none;display:block;overflow:hidden;text-align:center;margin:0px 0px 0px 0px;"><span><img class="ttr_uniform" style="max-height:251px;max-width:251px;margin:0px 0px 20px 0px;" src="~base_path~sites/default/files/inline-images/apple_strawberry_juice_2350x350.jpg" alt="image" /></span></span><span style="font-family:'Playfair Display','Arial';font-weight:700;font-size:1.429em;">Weed Control</span></p><p style="margin:0px 0px 0px 0px;text-align:Center; display:block; line-height:2.07em;"><span style="font-family:'Lato','Arial';font-size:1.143em;color:rgba(78,78,78,1);">Lorem ipsum dolor sit amet, test link adipiscing elit.Nullam dignissim convallis est.Quisque aliquam. Donec faucibus. Nunc iaculis suscipit.</span></p></div>
+<div class="margin_collapsetop"></div>
+<div style="clear:both;width:0px;"></div>
+</div>
+</div>
+<div class=" visible-lg-block d-xl-block d-lg-block visible-sm-block d-sm-block visible-xs-block d-block" style="clear: both;width:0px;"></div>
+<div class="post_column col-xl-4 col-lg-4 col-md-6 col-sm-12 col-xs-12 col-12">
+<div class="ttr_home_html_column44">
+<div class="margin_collapsetop"></div>
+<div class="html_content"><p style="margin:2px 0px 0px 0px;text-align:Center; display:block; line-height:1.49em;"><span class="ttr_image" style="float:none;display:block;overflow:hidden;text-align:center;margin:0px 0px 0px 0px;"><span><img class="ttr_uniform" style="max-height:251px;max-width:251px;margin:0px 0px 20px 0px;" src="~base_path~sites/default/files/inline-images/Presentation_juice51350x350.jpg" alt="image" /></span></span><span style="font-family:'Playfair Display','Arial';font-weight:700;font-size:1.429em;">Pest Control</span></p><p style="margin:10px 0px 0px 0px;text-align:Center; display:block; line-height:2.36em;"><span style="font-family:'Lato','Arial';font-size:1.143em;color:rgba(78,78,78,1);">Lorem ipsum dolor sit amet, test link adipiscing elit.Nullam dignissim convallis est.Quisque aliquam. Donec faucibus. Nunc iaculis suscipit.</span></p></div>
+<div class="margin_collapsetop"></div>
+<div style="clear:both;width:0px;"></div>
+</div>
+</div>
+<div class=" visible-md-block d-md-block visible-sm-block d-sm-block visible-xs-block d-block" style="clear: both;width:0px;"></div>
+<div class="post_column col-xl-4 col-lg-4 col-md-6 col-sm-12 col-xs-12 col-12">
+<div class="ttr_home_html_column45">
+<div class="margin_collapsetop"></div>
+<div class="html_content"><p style="margin:2px 0px 0px 0px;text-align:Center; display:block; line-height:1.49em;"><span class="ttr_image" style="float:none;display:block;overflow:hidden;text-align:center;margin:0px 0px 0px 0px;"><span><img class="ttr_uniform" style="max-height:251px;max-width:251px;margin:0px 0px 20px 0px;" src="~base_path~sites/default/files/inline-images/873a23ee5803b93d49cee948164804fe350x3502.png" alt="ht" /></span></span><span style="font-family:'Playfair Display','Arial';font-weight:700;font-size:1.429em;">Garden Care</span></p><p style="margin:10px 0px 0px 0px;text-align:Center; display:block; line-height:2.36em;"><span style="font-family:'Lato','Arial';font-size:1.143em;color:rgba(78,78,78,1);">Lorem ipsum dolor sit amet, test link adipiscing elit.Nullam dignissim convallis est.Quisque aliquam. Donec faucibus. Nunc iaculis suscipit.</span></p></div>
+<div class="margin_collapsetop"></div>
+<div style="clear:both;width:0px;"></div>
+</div>
+</div>
+<div class=" visible-sm-block d-sm-block visible-xs-block d-block" style="clear: both;width:0px;"></div>
+<div class="post_column col-xl-4 col-lg-4 col-md-6 col-sm-12 col-xs-12 col-12">
+<div class="ttr_home_html_column46">
+<div class="margin_collapsetop"></div>
+<div class="html_content"><p style="margin:2px 0px 0px 0px;text-align:Center; display:block; line-height:1.49em;"><span class="ttr_image" style="float:none;display:block;overflow:hidden;text-align:center;margin:0px 0px 0px 0px;"><span><img class="ttr_uniform" style="max-height:251px;max-width:251px;margin:0px 0px 20px 0px;" src="~base_path~sites/default/files/inline-images/15350x350.jpg" alt="image" /></span></span><span style="font-family:'Playfair Display','Arial';font-weight:700;font-size:1.429em;">Lawn Care</span></p><p style="margin:10px 0px 0px 0px;text-align:Center; display:block; line-height:2.36em;"><span style="font-family:'Lato','Arial';font-size:1.143em;color:rgba(78,78,78,1);">Lorem ipsum dolor sit amet, test link adipiscing elit.Nullam dignissim convallis est.Quisque aliquam. Donec faucibus. Nunc iaculis suscipit.</span></p></div>
+<div class="margin_collapsetop"></div>
+<div style="clear:both;width:0px;"></div>
+</div>
+</div>
+<div class=" visible-lg-block d-xl-block d-lg-block visible-md-block d-md-block visible-sm-block d-sm-block visible-xs-block d-block" style="clear: both;width:0px;"></div>
+</div>
+<div class="ttr_home_html_row5 row" >
+<div class="post_column col-xl-12 col-lg-12 col-md-12 col-sm-12 col-xs-12 col-12">
+<div class="ttr_home_html_column50">
+<div class="margin_collapsetop"></div>
+<div class="html_content"><p style="margin:2px 0px 20px 0px;text-align:Center; display:block; line-height:1.49em;"><span style="font-family:'Playfair Display','Arial';font-weight:700;font-size:2.571em;">What our clients say</span></p><p style="margin:10px 0px 0px 0px;text-align:Center; display:block; line-height:2.36em;"><span style="font-family:'Lato','Arial';font-size:1.143em;color:rgba(78,78,78,1);">Lorem ipsum dolor sit amet, test link adipiscing elit.Nullam dignissim convallis est. Quisque aliquam. Donec faucibus. Nunc iaculis suscipit dui.Nam sit amet sem. Aliquam libero nisi imperdiet at tincidunt nec.</span></p></div>
+<div class="margin_collapsetop"></div>
+<div style="clear:both;width:0px;"></div>
+</div>
+</div>
+<div class=" visible-lg-block d-xl-block d-lg-block visible-md-block d-md-block visible-sm-block d-sm-block visible-xs-block d-block" style="clear: both;width:0px;"></div>
+<div class="post_column col-xl-3 col-lg-3 col-md-6 col-sm-12 col-xs-12 col-12">
+<div class="ttr_home_html_column51">
+<div class="margin_collapsetop"></div>
+<div class="html_content"><h2 style="margin:2px 0px 0px 0px;text-align:Center; display:block; line-height:1.3em;"><span class="ttr_image" style="float:none;display:block;overflow:hidden;text-align:center;margin:0px 0px 20px 0px;"><span><img class="ttr_uniform" style="max-height:100px;max-width:100px;" src="~base_path~sites/default/files/inline-images/Image7.png" alt="image" /></span></span><span style="font-family:'Playfair Display','Arial';font-weight:700;font-size:0.667em;color:rgba(0,0,0,1);">Luxman Jackman</span></h2><p style="margin:2px 0px 0px 0px;text-align:Center; display:block; line-height:2.07em;"><span style="font-family:'Lato','Arial';color:rgba(78,78,78,1);">Lorem ipsum dolor sit amet, test link adipiscing elit.Nullam dignissim&nbsp;&nbsp;est.</span></p></div>
+<div class="margin_collapsetop"></div>
+<div style="clear:both;width:0px;"></div>
+</div>
+</div>
+<div class=" visible-sm-block d-sm-block visible-xs-block d-block" style="clear: both;width:0px;"></div>
+<div class="post_column col-xl-3 col-lg-3 col-md-6 col-sm-12 col-xs-12 col-12">
+<div class="ttr_home_html_column52">
+<div class="margin_collapsetop"></div>
+<div class="html_content"><p style="margin:2px 0px 0px 0px;text-align:Center; display:block; line-height:2.79em;"><span class="ttr_image" style="float:none;display:block;overflow:hidden;text-align:center;margin:0px 0px 20px 0px;"><span><a href="home.html" target="_self"><img class="ttr_uniform" style="max-height:100px;max-width:100px;" src="~base_path~sites/default/files/inline-images/Image10.png" alt="image" /></a></span></span><span style="font-family:'Playfair Display','Arial';font-weight:700;font-size:1.429em;color:rgba(0,0,0,1);">Hagaar Jone</span></p><p style="margin:2px 0px 0px 0px;text-align:Center; display:block; line-height:1.79em;"><span style="font-family:'Lato','Arial';color:rgba(78,78,78,1);">Lorem ipsum dolor sit amet, test link adipiscing elit.Nullam dignissim est.</span></p></div>
+<div class="margin_collapsetop"></div>
+<div style="clear:both;width:0px;"></div>
+</div>
+</div>
+<div class=" visible-md-block d-md-block visible-sm-block d-sm-block visible-xs-block d-block" style="clear: both;width:0px;"></div>
+<div class="post_column col-xl-3 col-lg-3 col-md-6 col-sm-12 col-xs-12 col-12">
+<div class="ttr_home_html_column53">
+<div class="margin_collapsetop"></div>
+<div class="html_content"><p style="margin:2px 0px 0px 0px;text-align:Center; display:block; line-height:2.79em;"><span class="ttr_image" style="float:none;display:block;overflow:hidden;text-align:center;margin:0px 0px 20px 0px;"><span><img class="ttr_uniform" style="max-height:100px;max-width:100px;" src="~base_path~sites/default/files/inline-images/Image81.png" alt="image" /></span></span><span style="font-family:'Playfair Display','Arial';font-weight:700;font-size:1.429em;color:rgba(0,0,0,1);">Nora Alkreem</span></p><p style="margin:2px 0px 0px 0px;text-align:Center; display:block; line-height:1.79em;"><span style="font-family:'Lato','Arial';color:rgba(78,78,78,1);">Lorem ipsum dolor sit amet, test link adipiscing elit.Nullam dignissim est.</span></p></div>
+<div class="margin_collapsetop"></div>
+<div style="clear:both;width:0px;"></div>
+</div>
+</div>
+<div class=" visible-sm-block d-sm-block visible-xs-block d-block" style="clear: both;width:0px;"></div>
+<div class="post_column col-xl-3 col-lg-3 col-md-6 col-sm-12 col-xs-12 col-12">
+<div class="ttr_home_html_column54">
+<div class="margin_collapsetop"></div>
+<div class="html_content"><p style="margin:2px 0px 0px 0px;text-align:Center; display:block; line-height:2.79em;"><span class="ttr_image" style="float:none;display:block;overflow:hidden;text-align:center;margin:0px 0px 20px 0px;"><span><img class="ttr_uniform" style="max-height:100px;max-width:100px;" src="~base_path~sites/default/files/inline-images/Image9.png" alt="image" /></span></span><span style="font-family:'Playfair Display','Arial';font-weight:700;font-size:1.429em;color:rgba(0,0,0,1);">Jeanne Daniel</span></p><p style="margin:2px 0px 0px 0px;text-align:Center; display:block; line-height:1.79em;"><span style="font-family:'Lato','Arial';color:rgba(78,78,78,1);">Lorem ipsum dolor sit amet, test link adipiscing elit.Nullam dignissim&nbsp;&nbsp;est.</span></p></div>
+<div class="margin_collapsetop"></div>
+<div style="clear:both;width:0px;"></div>
+</div>
+</div>
+<div class=" visible-lg-block d-xl-block d-lg-block visible-md-block d-md-block visible-sm-block d-sm-block visible-xs-block d-block" style="clear: both;width:0px;"></div>
+</div>
+]]></introtext>
+    </content>
+    <content>
+      <meta_ID>tt_page2</meta_ID>
+      <page_title>About Us</page_title>
+      <alias>about-us</alias>
+      <page_name>About Us</page_name>
+      <page_header_id>about us</page_header_id>
+      <state>1</state>
+      <featured>1</featured>
+      <created>07/07/2021 00:00:00</created>
+      <created_by_alias>SuperUser</created_by_alias>
+      <page_title_visibility>false</page_title_visibility>
+      <introtext><![CDATA[<div class="ttr_about-us_html_row0 row" >
+<div class="post_column col-xl-12 col-lg-12 col-md-12 col-sm-12 col-xs-12 col-12">
+<div class="ttr_about-us_html_column00">
+<div class="margin_collapsetop"></div>
+<div class="html_content"><p style="text-align:Center; display:block; line-height:1.49em;"><span style="font-weight:700;font-size:2.571em;color:rgba(255,255,255,1);">About Us</span></p></div>
+<div class="margin_collapsetop"></div>
+<div style="clear:both;width:0px;"></div>
+</div>
+</div>
+<div class=" visible-lg-block d-xl-block d-lg-block visible-md-block d-md-block visible-sm-block d-sm-block visible-xs-block d-block" style="clear: both;width:0px;"></div>
+</div>
+<div class="ttr_about-us_html_row1 row" >
+<div class="post_column col-xl-6 col-lg-6 col-md-12 col-sm-12 col-xs-12 col-12">
+<div class="ttr_about-us_html_column10">
+<div class="margin_collapsetop"></div>
+<div class="html_content"><p><span class="ttr_image" style="float:Left;overflow:hidden;margin:0px 0px 0px 0px;"><span><img class="ttr_uniform" style="max-height:400px;max-width:700px;" src="~base_path~sites/default/files/inline-images/Image12.jpg" alt="image" /></span></span></p></div>
+<div class="margin_collapsetop"></div>
+<div style="clear:both;width:0px;"></div>
+</div>
+</div>
+<div class=" visible-md-block d-md-block visible-sm-block d-sm-block visible-xs-block d-block" style="clear: both;width:0px;"></div>
+<div class="post_column col-xl-6 col-lg-6 col-md-12 col-sm-12 col-xs-12 col-12">
+<div class="ttr_about-us_html_column11">
+<div class="margin_collapsetop"></div>
+<div class="html_content"><h2 style="margin:2px 0px 0px 0px;line-height:0.7em;"><span style="font-weight:700;font-size:0.933em;">Welcome to Award Winning Gardener Landscaping Company</span></h2><p style="margin:2px 0px 0px 0px;line-height:2.06em;"><span style="font-family:'Lato','Arial';font-size:1.143em;color:rgba(78,78,78,1);">Lorem ipsum dolor sit amet, test link adipiscing elit.Nullam dignissim convallis est.Quisque aliquam. Donec faucibus. Nunc iaculis suscipit dui.Nam sit amet sem. Aliquam libero nisi, imperdiet at, tincidunt nec, gravida vehicula, nisl.Praesent mattis, massa quis luctus fermentum, turpis mi volutpat justo, eu volutpat enim diam eget metus.Maecenas ornare tortor.</span></p><p style="margin:2px 0px 0px 0px;line-height:2.06em;"><span><a target="_self" class="btn btn-md btn-primary">Read More</a></span></p></div>
+<div class="margin_collapsetop"></div>
+<div style="clear:both;width:0px;"></div>
+</div>
+</div>
+<div class=" visible-lg-block d-xl-block d-lg-block visible-md-block d-md-block visible-sm-block d-sm-block visible-xs-block d-block" style="clear: both;width:0px;"></div>
+</div>
+<div class="ttr_about-us_html_row2 row" >
+<div class="post_column col-xl-12 col-lg-12 col-md-12 col-sm-12 col-xs-12 col-12">
+<div class="ttr_about-us_html_column20">
+<div class="margin_collapsetop"></div>
+<div class="html_content"><p style="margin:2px 0px 0px 0px;text-align:Center; display:block; line-height:1.49em;"><span style="font-weight:700;font-size:2.571em;">What our clients say</span></p><p style="margin:10px 0px 0px 0px;text-align:Center; display:block; line-height:1.72em;"><span style="font-family:'Lato','Arial';font-size:1.143em;color:rgba(78,78,78,1);">Lorem ipsum dolor sit amet, test link adipiscing elit.Nullam dignissim convallis est. Quisque aliquam. Donec faucibus. Nunc iaculis suscipit dui.Nam sit amet sem. Aliquam libero nisi imperdiet at tincidunt nec.</span></p></div>
+<div class="margin_collapsetop"></div>
+<div style="clear:both;width:0px;"></div>
+</div>
+</div>
+<div class=" visible-lg-block d-xl-block d-lg-block visible-md-block d-md-block visible-sm-block d-sm-block visible-xs-block d-block" style="clear: both;width:0px;"></div>
+<div class="post_column col-xl-3 col-lg-3 col-md-6 col-sm-12 col-xs-12 col-12">
+<div class="ttr_about-us_html_column21">
+<div class="margin_collapsetop"></div>
+<div class="html_content"><p style="margin:2px 0px 0px 0px;text-align:Center; display:block; line-height:1.97em;"><span class="ttr_image" style="float:none;display:block;overflow:hidden;text-align:center;margin:0px 0px 20px 0px;"><span><a href="home.html" target="_self"><img class="ttr_uniform" style="max-height:100px;max-width:100px;" src="~base_path~sites/default/files/inline-images/Image71.png" alt="image" /></a></span></span><span style="font-weight:700;font-size:1.286em;color:rgba(7,127,76,1);">Lumber Jackman</span></p><p style="margin:2px 0px 0px 0px;text-align:Center; display:block; line-height:1.79em;"><span style="font-family:'Lato','Arial';color:rgba(78,78,78,1);">Lorem ipsum dolor sit amet, test link adipiscing elit.Nullam dignissim&nbsp;&nbsp;est.</span></p></div>
+<div class="margin_collapsetop"></div>
+<div style="clear:both;width:0px;"></div>
+</div>
+</div>
+<div class=" visible-sm-block d-sm-block visible-xs-block d-block" style="clear: both;width:0px;"></div>
+<div class="post_column col-xl-3 col-lg-3 col-md-6 col-sm-12 col-xs-12 col-12">
+<div class="ttr_about-us_html_column22">
+<div class="margin_collapsetop"></div>
+<div class="html_content"><p style="margin:2px 0px 0px 0px;text-align:Center; display:block; line-height:1.97em;"><span class="ttr_image" style="float:none;display:block;overflow:hidden;text-align:center;margin:0px 0px 20px 0px;"><span><img class="ttr_uniform" style="max-height:100px;max-width:100px;" src="~base_path~sites/default/files/inline-images/Image101.png" alt="image" /></span></span><span style="font-weight:700;font-size:1.286em;color:rgba(7,127,76,1);">Hagaar Jone</span></p><p style="margin:2px 0px 0px 0px;text-align:Center; display:block; line-height:1.79em;"><span style="font-family:'Lato','Arial';color:rgba(78,78,78,1);">Lorem ipsum dolor sit amet, test link adipiscing elit.Nullam dignissim est.</span></p></div>
+<div class="margin_collapsetop"></div>
+<div style="clear:both;width:0px;"></div>
+</div>
+</div>
+<div class=" visible-md-block d-md-block visible-sm-block d-sm-block visible-xs-block d-block" style="clear: both;width:0px;"></div>
+<div class="post_column col-xl-3 col-lg-3 col-md-6 col-sm-12 col-xs-12 col-12">
+<div class="ttr_about-us_html_column23">
+<div class="margin_collapsetop"></div>
+<div class="html_content"><p style="margin:2px 0px 0px 0px;text-align:Center; display:block; line-height:1.97em;"><span class="ttr_image" style="float:none;display:block;overflow:hidden;text-align:center;margin:0px 0px 20px 0px;"><span><img class="ttr_uniform" style="max-height:100px;max-width:100px;" src="~base_path~sites/default/files/inline-images/Image82.png" alt="image" /></span></span><span style="font-weight:700;font-size:1.286em;color:rgba(7,127,76,1);">Nora Alkreem</span></p><p style="margin:2px 0px 0px 0px;text-align:Center; display:block; line-height:1.79em;"><span style="font-family:'Lato','Arial';color:rgba(78,78,78,1);">Lorem ipsum dolor sit amet, test link adipiscing elit.Nullam dignissim est.</span></p></div>
+<div class="margin_collapsetop"></div>
+<div style="clear:both;width:0px;"></div>
+</div>
+</div>
+<div class=" visible-sm-block d-sm-block visible-xs-block d-block" style="clear: both;width:0px;"></div>
+<div class="post_column col-xl-3 col-lg-3 col-md-6 col-sm-12 col-xs-12 col-12">
+<div class="ttr_about-us_html_column24">
+<div class="margin_collapsetop"></div>
+<div class="html_content"><p style="margin:2px 0px 0px 0px;text-align:Center; display:block; line-height:1.97em;"><span class="ttr_image" style="float:none;display:block;overflow:hidden;text-align:center;margin:0px 0px 20px 0px;"><span><img class="ttr_uniform" style="max-height:100px;max-width:100px;" src="~base_path~sites/default/files/inline-images/Image91.png" alt="image" /></span></span><span style="font-weight:700;font-size:1.286em;color:rgba(7,127,76,1);">Jeanne Daniel</span></p><p style="margin:2px 0px 0px 0px;text-align:Center; display:block; line-height:1.79em;"><span style="font-family:'Lato','Arial';color:rgba(78,78,78,1);">Lorem ipsum dolor sit amet, test link adipiscing elit.Nullam dignissim&nbsp;&nbsp;est.</span></p></div>
+<div class="margin_collapsetop"></div>
+<div style="clear:both;width:0px;"></div>
+</div>
+</div>
+<div class=" visible-lg-block d-xl-block d-lg-block visible-md-block d-md-block visible-sm-block d-sm-block visible-xs-block d-block" style="clear: both;width:0px;"></div>
+</div>
+]]></introtext>
+    </content>
+    <content>
+      <meta_ID>tt_page3</meta_ID>
+      <page_title>Contact</page_title>
+      <alias>contact</alias>
+      <page_name>Contact</page_name>
+      <page_header_id>contact</page_header_id>
+      <state>1</state>
+      <featured>1</featured>
+      <created>07/07/2021 00:00:00</created>
+      <created_by_alias>SuperUser</created_by_alias>
+      <page_title_visibility>false</page_title_visibility>
+      <introtext><![CDATA[<div class="ttr_contact_html_row0 row" >
+<div class="post_column col-xl-12 col-lg-12 col-md-12 col-sm-12 col-xs-12 col-12">
+<div class="ttr_contact_html_column00">
+<div class="margin_collapsetop"></div>
+<div class="html_content"><p style="text-align:Center; display:block; line-height:1.97em;"><span style="font-weight:700;font-size:2.571em;color:rgba(255,255,255,1);">Contact Us</span></p></div>
+<div class="margin_collapsetop"></div>
+<div style="clear:both;width:0px;"></div>
+</div>
+</div>
+<div class=" visible-lg-block d-xl-block d-lg-block visible-md-block d-md-block visible-sm-block d-sm-block visible-xs-block d-block" style="clear: both;width:0px;"></div>
+</div>
+<div class="ttr_contact_html_row1 row" >
+<div class="post_column col-xl-5 col-lg-5 col-md-5 col-sm-12 col-xs-12 col-12">
+<div class="ttr_contact_html_column10">
+<div class="margin_collapsetop"></div>
+<div class="html_content"><p style="margin:2px 0px 0px 0px;"><span style="font-weight:700;font-size:1.714em;">Address:</span></p><p style="margin:20px 0px 0px 0px;line-height:1.79em;"><span style="font-family:'Lato','Arial';font-size:1.143em;color:rgba(78,78,78,1);">123 ABC Ave Street View #456 XYZ</span></p><p style="margin:2px 0px 0px 0px;line-height:1.79em;"><span style="font-family:'Lato','Arial';font-size:1.143em;color:rgba(78,78,78,1);">New York City,</span></p><p style="margin:2px 0px 0px 0px;line-height:1.79em;"><span style="font-family:'Lato','Arial';font-size:1.143em;color:rgba(78,78,78,1);">NY 100005, USA</span></p><p style="margin:2px 0px 0px 0px;line-height:1.79em;"><span style="font-family:'Lato','Arial';font-weight:700;font-size:1.143em;color:rgba(78,78,78,1);">PHONES:</span><span style="font-family:'Lato','Arial';font-size:1.143em;color:rgba(78,78,78,1);"> (800) 123-4567-890; (800) 123-0046-7890</span></p><p style="margin:2px 0px 0px 0px;line-height:1.79em;"><span style="font-family:'Lato','Arial';font-weight:700;font-size:1.143em;color:rgba(78,78,78,1);">WE ARE OPEN:</span><span style="font-family:'Lato','Arial';font-size:1.143em;color:rgba(78,78,78,1);"> Mon-Fri: 10 am - 8 pm</span></p></div>
+<div class="margin_collapsetop"></div>
+<div style="clear:both;width:0px;"></div>
+</div>
+</div>
+<div class=" visible-sm-block d-sm-block visible-xs-block d-block" style="clear: both;width:0px;"></div>
+<div class="post_column col-xl-7 col-lg-7 col-md-7 col-sm-12 col-xs-12 col-12">
+<div class="ttr_contact_html_column11">
+<div class="margin_collapsetop"></div>
+<div class="html_content"><p style="margin:5px 0px 20px 0px;"><span style="font-weight:700;font-size:1.714em;">Let's Get in Touch </span></p><p><form id="ContactForm1" class="form-horizontal" role="form" method="post" action="#" /></p></div>
+<div class="margin_collapsetop"></div>
+<div style="clear:both;width:0px;"></div>
+</div>
+</div>
+<div class=" visible-lg-block d-xl-block d-lg-block visible-md-block d-md-block visible-sm-block d-sm-block visible-xs-block d-block" style="clear: both;width:0px;"></div>
+</div>
+]]></introtext>
+      <contactforms><contactform id="d77df820-4795-4880-ba13-f6923240b177" filesize="0" BrowseButtonVisibility="Visible" msg_name="Message"><ListViewItem ContentStringFormat="NoValidation" IsTabStop="False" x:Uid="NoValidation" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"><ListViewItem.Tag><ttch:ContactFormFieldTags Tag="{x:Null}" Name="Name" xmlns:ttch="clr-namespace:TemplateToaster.Core.Helpers;assembly=TemplateToaster" /></ListViewItem.Tag>Name</ListViewItem><ListViewItem IsSelected="True" ContentStringFormat="Email" IsTabStop="False" x:Uid="Email" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"><ListViewItem.Tag><ttch:ContactFormFieldTags Tag="Mandate" Name="Email" xmlns:ttch="clr-namespace:TemplateToaster.Core.Helpers;assembly=TemplateToaster" /></ListViewItem.Tag>Email</ListViewItem><ListViewItem ContentStringFormat="NoValidation" IsTabStop="False" x:Uid="NoValidation" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"><ListViewItem.Tag><ttch:ContactFormFieldTags Tag="{x:Null}" Name="Subject" xmlns:ttch="clr-namespace:TemplateToaster.Core.Helpers;assembly=TemplateToaster" /></ListViewItem.Tag>Subject</ListViewItem></contactform></contactforms>
+    </content>
+    <content>
+      <meta_ID>tt_page4</meta_ID>
+      <page_title>Services</page_title>
+      <alias>services</alias>
+      <page_name>Services</page_name>
+      <page_header_id>services</page_header_id>
+      <state>1</state>
+      <featured>1</featured>
+      <created>07/07/2021 00:00:00</created>
+      <created_by_alias>SuperUser</created_by_alias>
+      <page_title_visibility>false</page_title_visibility>
+      <introtext><![CDATA[<div class="ttr_services_html_row0 row" >
+<div class="post_column col-xl-12 col-lg-12 col-md-12 col-sm-12 col-xs-12 col-12">
+<div class="ttr_services_html_column00">
+<div class="margin_collapsetop"></div>
+<div class="html_content"><p style="text-align:Center; display:block; line-height:1.97em;"><span style="font-weight:700;font-size:2.571em;color:rgba(255,255,255,1);">Services</span></p></div>
+<div class="margin_collapsetop"></div>
+<div style="clear:both;width:0px;"></div>
+</div>
+</div>
+<div class=" visible-lg-block d-xl-block d-lg-block visible-md-block d-md-block visible-sm-block d-sm-block visible-xs-block d-block" style="clear: both;width:0px;"></div>
+</div>
+<div class="ttr_services_html_row1 row" >
+<div class="post_column col-xl-12 col-lg-12 col-md-12 col-sm-12 col-xs-12 col-12">
+<div class="ttr_services_html_column10">
+<div class="margin_collapsetop"></div>
+<div class="html_content"><p style="margin:2px 0px 0px 0px;text-align:Center; display:block; line-height:1.49em;"><span style="font-weight:700;font-size:2.571em;">Our Services</span></p><p style="margin:10px 0px 0px 0px;text-align:Center; display:block; line-height:1.72em;"><span style="font-family:'Lato','Arial';font-size:1.143em;color:rgba(78,78,78,1);">Lorem ipsum dolor sit amet, test link adipiscing elit.Nullam dignissim convallis est. Quisque aliquam. Donec faucibus. Nunc iaculis suscipit dui.Nam sit amet sem. Aliquam libero nisi imperdiet at tincidunt nec.</span></p></div>
+<div class="margin_collapsetop"></div>
+<div style="clear:both;width:0px;"></div>
+</div>
+</div>
+<div class=" visible-lg-block d-xl-block d-lg-block visible-md-block d-md-block visible-sm-block d-sm-block visible-xs-block d-block" style="clear: both;width:0px;"></div>
+<div class="post_column col-xl-4 col-lg-4 col-md-6 col-sm-12 col-xs-12 col-12">
+<div class="ttr_services_html_column11">
+<div class="margin_collapsetop"></div>
+<div class="html_content"><p style="margin:2px 0px 0px 0px;line-height:1.49em;"><span class="ttr_image" style="float:Left;overflow:hidden;margin:0px 0px 20px 0px;"><span><img class="ttr_uniform" style="max-height:300px;max-width:450px;" src="~base_path~sites/default/files/inline-images/Image11.jpg" alt="Services" /></span></span><span style="font-weight:700;font-size:1.429em;">Hedging &amp; Topiary</span></p><p style="margin:10px 0px 0px 0px;line-height:1.83em;"><span style="font-family:'Lato','Arial';font-size:1.143em;color:rgba(78,78,78,1);">Lorem ipsum dolor sit amet, test link adipiscing elit.Nullam dignissim convallis est.Quisque aliquam. Donec faucibus. Nunc iaculis suscipit.</span></p></div>
+<div class="margin_collapsetop"></div>
+<div style="clear:both;width:0px;"></div>
+</div>
+</div>
+<div class=" visible-sm-block d-sm-block visible-xs-block d-block" style="clear: both;width:0px;"></div>
+<div class="post_column col-xl-4 col-lg-4 col-md-6 col-sm-12 col-xs-12 col-12">
+<div class="ttr_services_html_column12">
+<div class="margin_collapsetop"></div>
+<div class="html_content"><p style="margin:2px 0px 0px 0px;line-height:1.49em;"><span class="ttr_image" style="float:Left;overflow:hidden;margin:0px 0px 20px 0px;"><span><img class="ttr_uniform" style="max-height:300px;max-width:450px;" src="~base_path~sites/default/files/inline-images/Image21.jpg" alt="Services" /></span></span><span style="font-weight:700;font-size:1.429em;">Landscaping</span></p><p style="margin:10px 0px 0px 0px;line-height:1.83em;"><span style="font-family:'Lato','Arial';font-size:1.143em;color:rgba(78,78,78,1);">Lorem ipsum dolor sit amet, test link adipiscing elit.Nullam dignissim convallis est.Quisque aliquam. Donec faucibus. Nunc iaculis suscipit.</span></p></div>
+<div class="margin_collapsetop"></div>
+<div style="clear:both;width:0px;"></div>
+</div>
+</div>
+<div class=" visible-md-block d-md-block visible-sm-block d-sm-block visible-xs-block d-block" style="clear: both;width:0px;"></div>
+<div class="post_column col-xl-4 col-lg-4 col-md-6 col-sm-12 col-xs-12 col-12">
+<div class="ttr_services_html_column13">
+<div class="margin_collapsetop"></div>
+<div class="html_content"><p style="margin:2px 0px 0px 0px;line-height:1.49em;"><span class="ttr_image" style="float:Left;overflow:hidden;margin:0px 0px 20px 0px;"><span><img class="ttr_uniform" style="max-height:300px;max-width:450px;" src="~base_path~sites/default/files/inline-images/Image31.jpg" alt="Services" /></span></span><span style="font-weight:700;font-size:1.429em;">Weed Control</span></p><p style="margin:10px 0px 0px 0px;line-height:1.83em;"><span style="font-family:'Lato','Arial';font-size:1.143em;color:rgba(78,78,78,1);">Lorem ipsum dolor sit amet, test link adipiscing elit.Nullam dignissim convallis est.Quisque aliquam. Donec faucibus. Nunc iaculis suscipit.</span></p></div>
+<div class="margin_collapsetop"></div>
+<div style="clear:both;width:0px;"></div>
+</div>
+</div>
+<div class=" visible-lg-block d-xl-block d-lg-block visible-sm-block d-sm-block visible-xs-block d-block" style="clear: both;width:0px;"></div>
+<div class="post_column col-xl-4 col-lg-4 col-md-6 col-sm-12 col-xs-12 col-12">
+<div class="ttr_services_html_column14">
+<div class="margin_collapsetop"></div>
+<div class="html_content"><p style="margin:2px 0px 0px 0px;line-height:1.49em;"><span class="ttr_image" style="float:Left;overflow:hidden;margin:0px 0px 20px 0px;"><span><img class="ttr_uniform" style="max-height:300px;max-width:450px;" src="~base_path~sites/default/files/inline-images/Image41.jpg" alt="Services" /></span></span><span style="font-weight:700;font-size:1.429em;">Pest Control</span></p><p style="margin:10px 0px 0px 0px;line-height:1.83em;"><span style="font-family:'Lato','Arial';font-size:1.143em;color:rgba(78,78,78,1);">Lorem ipsum dolor sit amet, test link adipiscing elit.Nullam dignissim convallis est.Quisque aliquam. Donec faucibus. Nunc iaculis suscipit.</span></p></div>
+<div class="margin_collapsetop"></div>
+<div style="clear:both;width:0px;"></div>
+</div>
+</div>
+<div class=" visible-md-block d-md-block visible-sm-block d-sm-block visible-xs-block d-block" style="clear: both;width:0px;"></div>
+<div class="post_column col-xl-4 col-lg-4 col-md-6 col-sm-12 col-xs-12 col-12">
+<div class="ttr_services_html_column15">
+<div class="margin_collapsetop"></div>
+<div class="html_content"><p style="margin:2px 0px 0px 0px;line-height:1.49em;"><span class="ttr_image" style="float:Left;overflow:hidden;margin:0px 0px 20px 0px;"><span><img class="ttr_uniform" style="max-height:300px;max-width:450px;" src="~base_path~sites/default/files/inline-images/Image51.jpg" alt="Services" /></span></span><span style="font-weight:700;font-size:1.429em;">Garden Care</span></p><p style="margin:10px 0px 0px 0px;line-height:1.83em;"><span style="font-family:'Lato','Arial';font-size:1.143em;color:rgba(78,78,78,1);">Lorem ipsum dolor sit amet, test link adipiscing elit.Nullam dignissim convallis est.Quisque aliquam. Donec faucibus. Nunc iaculis suscipit.</span></p></div>
+<div class="margin_collapsetop"></div>
+<div style="clear:both;width:0px;"></div>
+</div>
+</div>
+<div class=" visible-sm-block d-sm-block visible-xs-block d-block" style="clear: both;width:0px;"></div>
+<div class="post_column col-xl-4 col-lg-4 col-md-6 col-sm-12 col-xs-12 col-12">
+<div class="ttr_services_html_column16">
+<div class="margin_collapsetop"></div>
+<div class="html_content"><p style="margin:2px 0px 0px 0px;line-height:1.49em;"><span class="ttr_image" style="float:Left;overflow:hidden;margin:0px 0px 20px 0px;"><span><img class="ttr_uniform" style="max-height:300px;max-width:450px;" src="~base_path~sites/default/files/inline-images/Image61.jpg" alt="Services" /></span></span><span style="font-weight:700;font-size:1.429em;">Lawn Care</span></p><p style="margin:10px 0px 0px 0px;line-height:1.83em;"><span style="font-family:'Lato','Arial';font-size:1.143em;color:rgba(78,78,78,1);">Lorem ipsum dolor sit amet, test link adipiscing elit.Nullam dignissim convallis est.Quisque aliquam. Donec faucibus. Nunc iaculis suscipit.</span></p></div>
+<div class="margin_collapsetop"></div>
+<div style="clear:both;width:0px;"></div>
+</div>
+</div>
+<div class=" visible-lg-block d-xl-block d-lg-block visible-md-block d-md-block visible-sm-block d-sm-block visible-xs-block d-block" style="clear: both;width:0px;"></div>
+</div>
+<div class="ttr_services_html_row2 row" >
+<div class="post_column col-xl-4 col-lg-4 col-md-4 col-sm-12 col-xs-12 col-12">
+<div class="ttr_services_html_column20">
+<div class="margin_collapsetop"></div>
+<div class="html_content"><p style="text-align:Center; display:block; "><span style="font-size:5.143em;color:rgba(5,103,61,1);">40</span></p><p style="text-align:Center; display:block; "><span style="font-size:2em;color:rgba(5,103,61,1);">YEARS</span></p><p style="text-align:Center; display:block; "><span style="font-family:'Lato','Arial';font-size:1.429em;color:rgba(30,30,30,1);">Experience</span></p><p style="text-align:Center; display:block; "><span style="font-family:'Lato','Arial';font-size:1.143em;color:rgba(78,78,78,1);">Delivering solutions for your garden.</span></p></div>
+<div class="margin_collapsetop"></div>
+<div style="clear:both;width:0px;"></div>
+</div>
+</div>
+<div class=" visible-sm-block d-sm-block visible-xs-block d-block" style="clear: both;width:0px;"></div>
+<div class="post_column col-xl-4 col-lg-4 col-md-4 col-sm-12 col-xs-12 col-12">
+<div class="ttr_services_html_column21">
+<div class="margin_collapsetop"></div>
+<div class="html_content"><p style="margin:5px 0px 5px 0px;text-align:Center; display:block; "><span style="font-size:5.143em;color:rgba(5,103,61,1);">30</span></p><p style="margin:5px 0px 5px 0px;text-align:Center; display:block; "><span style="font-size:2em;color:rgba(5,103,61,1);">SPECIALISTS</span></p><p style="margin:5px 0px 5px 0px;text-align:Center; display:block; "><span style="font-family:'Lato','Arial';font-size:1.429em;color:rgba(30,30,30,1);">In landscaping design</span></p><p style="margin:5px 0px 5px 0px;text-align:Center; display:block; "><span style="font-family:'Lato','Arial';font-size:1.143em;color:rgba(78,78,78,1);">We gather the best talent, creating the best specialist team.</span></p></div>
+<div class="margin_collapsetop"></div>
+<div style="clear:both;width:0px;"></div>
+</div>
+</div>
+<div class=" visible-sm-block d-sm-block visible-xs-block d-block" style="clear: both;width:0px;"></div>
+<div class="post_column col-xl-4 col-lg-4 col-md-4 col-sm-12 col-xs-12 col-12">
+<div class="ttr_services_html_column22">
+<div class="margin_collapsetop"></div>
+<div class="html_content"><p style="margin:5px 0px 5px 0px;text-align:Center; display:block; "><span style="font-size:5.143em;color:rgba(5,103,61,1);">15</span></p><p style="margin:5px 0px 5px 0px;text-align:Center; display:block; "><span style="font-size:2em;color:rgba(5,103,61,1);">AWARDS</span></p><p style="margin:5px 0px 5px 0px;text-align:Center; display:block; "><span style="font-family:'Lato','Arial';font-size:1.429em;color:rgba(30,30,30,1);">Winning Company</span></p><p style="margin:5px 0px 5px 0px;text-align:Center; display:block; "><span style="font-family:'Lato','Arial';font-size:1.143em;color:rgba(30,30,30,1);">Best garden designs works for your inspiration.</span></p></div>
+<div class="margin_collapsetop"></div>
+<div style="clear:both;width:0px;"></div>
+</div>
+</div>
+<div class=" visible-lg-block d-xl-block d-lg-block visible-md-block d-md-block visible-sm-block d-sm-block visible-xs-block d-block" style="clear: both;width:0px;"></div>
+</div>
+]]></introtext>
+    </content>
+  </pages>
+  <sidebars />
+  <footers>
+    <footer name="footercellcolumn1">
+      <block name="footercellcolumn0" tt_blockID="footer_cell0" title="footertext1">
+        <content><![CDATA[<div class="html_content"><p style="margin:10px 0px 10px 0px;line-height:2.79em;"><span style="font-weight:600;font-size:1.429em;color:rgba(52,52,52,1);">About Green Alley</span></p><p style="line-height:2.21em;"><span style="font-family:'Lato','Arial';font-size:1.071em;color:rgba(52,52,52,1);">Lorem ipsum dolor sit amet, test link adipiscing elit.Nullam dignissim convallis est. Quisque aliquam. Donec faucibus. Nunc iaculis suscipit dui.Nam sit amet sem. Aliquam libero nisi imperdiet at tincidunt nec.</span></p></div>]]></content>
+        <widget_pages>
+          <widget_page>home</widget_page>
+          <widget_page>about-us</widget_page>
+          <widget_page>contact</widget_page>
+          <widget_page>services</widget_page>
+        </widget_pages>
+      </block>
+    </footer>
+    <footer name="footercellcolumn2">
+      <block name="footercellcolumn1" tt_blockID="footer_cell1" title="footertext2">
+        <content><![CDATA[<div class="html_content"><p style="line-height:2.79em;"><span style="font-weight:600;font-size:1.429em;color:rgba(52,52,52,1);">Services</span></p><p style="margin:0px 0px 5px 0px;line-height:2.11em;"><span style="font-family:'Lato','Arial';font-size:1.071em;color:rgba(52,52,52,1);">Lawn &amp; Garden Care</span></p><p style="margin:0px 0px 5px 0px;line-height:2.11em;"><span style="font-family:'Lato','Arial';font-size:1.071em;color:rgba(52,52,52,1);">Irrigation &amp; Drainage</span></p><p style="line-height:2.11em;"><span style="font-family:'Lato','Arial';font-size:1.071em;color:rgba(52,52,52,1);">Stone &amp; Hardscaping</span></p><p style="margin:0px 0px 5px 0px;line-height:2.11em;"><span style="font-family:'Lato','Arial';font-size:1.071em;color:rgba(52,52,52,1);">Design &amp; Planning</span></p></div>]]></content>
+        <widget_pages>
+          <widget_page>home</widget_page>
+          <widget_page>about-us</widget_page>
+          <widget_page>contact</widget_page>
+          <widget_page>services</widget_page>
+        </widget_pages>
+      </block>
+    </footer>
+    <footer name="footercellcolumn3">
+      <block name="footercellcolumn2" tt_blockID="footer_cell2" title="footertext3">
+        <content><![CDATA[<div class="html_content"><p style="margin:5px 0px 5px 0px;line-height:2.79em;"><span style="font-weight:600;font-size:1.429em;color:rgba(52,52,52,1);">Useful Links</span></p><p style="margin:0px 0px 5px 0px;line-height:2.11em;"><span style="font-family:'Lato','Arial';font-size:1.071em;color:rgba(52,52,52,1);">About Us</span></p><p style="margin:0px 0px 5px 0px;line-height:2.11em;"><span style="font-family:'Lato','Arial';font-size:1.071em;color:rgba(52,52,52,1);">Documentation</span></p><p style="margin:0px 0px 5px 0px;line-height:2.11em;"><span style="font-family:'Lato','Arial';font-size:1.071em;color:rgba(52,52,52,1);">Our Projects</span></p><p style="margin:0px 0px 5px 0px;line-height:2.11em;"><span style="font-family:'Lato','Arial';font-size:1.071em;color:rgba(52,52,52,1);">Services</span></p></div>]]></content>
+        <widget_pages>
+          <widget_page>home</widget_page>
+          <widget_page>about-us</widget_page>
+          <widget_page>contact</widget_page>
+          <widget_page>services</widget_page>
+        </widget_pages>
+      </block>
+    </footer>
+    <footer name="footercellcolumn4">
+      <block name="footercellcolumn3" tt_blockID="footer_cell3" title="footertext4">
+        <content><![CDATA[<div class="html_content"><p style="margin:5px 0px 5px 0px;line-height:2.79em;"><span style="font-weight:600;font-size:1.429em;color:rgba(52,52,52,1);">Get in touch</span></p><p style="margin:0px 0px 5px 0px;line-height:2.11em;"><span style="font-family:'Lato','Arial';font-size:1.071em;color:rgba(52,52,52,1);">Facebook</span></p><p style="margin:0px 0px 5px 0px;line-height:2.11em;"><span style="font-family:'Lato','Arial';font-size:1.071em;color:rgba(52,52,52,1);">Twitter</span></p><p style="margin:0px 0px 5px 0px;line-height:2.11em;"><span style="font-family:'Lato','Arial';font-size:1.071em;color:rgba(52,52,52,1);">Linkedin</span></p><p style="margin:0px 0px 5px 0px;line-height:2.11em;"><span style="font-family:'Lato','Arial';font-size:1.071em;color:rgba(52,52,52,1);">Pinterest</span></p></div>]]></content>
+        <widget_pages>
+          <widget_page>home</widget_page>
+          <widget_page>about-us</widget_page>
+          <widget_page>contact</widget_page>
+          <widget_page>services</widget_page>
+        </widget_pages>
+      </block>
+    </footer>
+  </footers>
+  <Shapes>
+    <headershapes />
+    <slideshowshapes>
+      <slideshow name="slideshowshape000">
+        <block name="slideshowshape000" tt_blockID="slideshow_cell000" title="slideshow_block000">
+          <content><![CDATA[<div class="html_content"><p style="margin:50px 0px 5px 0px;text-align:Center; display:block; line-height:2.64em;"><span style="font-family:'Playfair Display','Arial';font-size:2.571em;">We’ve Unlimited Flower</span></p><p style="margin:0px 0px 5px 0px;text-align:Center; display:block; line-height:2.64em;"><span style="font-family:'Playfair Display','Arial';font-size:2.571em;">Collections</span></p></div>]]></content>
+          <widget_pages>
+            <widget_page>home</widget_page>
+            <widget_page>about-us</widget_page>
+            <widget_page>contact</widget_page>
+            <widget_page>services</widget_page>
+            <widget_page>blog-wp</widget_page>
+          </widget_pages>
+        </block>
+      </slideshow>
+      <slideshow name="slideshowshape001">
+        <block name="slideshowshape001" tt_blockID="slideshow_cell001" title="slideshow_block001">
+          <content><![CDATA[<div class="html_content"><p style="text-align:Center; display:block; line-height:2.51em;"><a href="https://templatetoaster.com" target="_blank" class="tt_link" href="https://templatetoaster.com" class="tt_link" target="_blank"><span style="font-family:'Lato','Arial';font-size:1.286em;color:rgba(213,149,176,1);">S H O P&nbsp;&nbsp; N O W</span></a></p></div>]]></content>
+          <widget_pages>
+            <widget_page>home</widget_page>
+            <widget_page>about-us</widget_page>
+            <widget_page>contact</widget_page>
+            <widget_page>services</widget_page>
+            <widget_page>blog-wp</widget_page>
+          </widget_pages>
+        </block>
+      </slideshow>
+    </slideshowshapes>
+    <menushapes />
+    <footershapes />
+  </Shapes>
+</sitecontent>
